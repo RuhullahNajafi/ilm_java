@@ -50,6 +50,6 @@ public class App {
         System.out.println("GrandParents of Tim: " + tim.getGrandParents());
         System.out.println("GrandChildren of Bob: " + bob.getGrandChildren());
         System.out.println("GrandChildren of Alice: " + alice.getGrandChildren());
-
+        
     }
 }
